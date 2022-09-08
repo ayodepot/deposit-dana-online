@@ -1,0 +1,20 @@
+{
+  "name": "deposit-dana-online",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Link Daftar Situs Deposit Dana Tanpa Potongan - Bonus Newmember hingga 200",
+  "keywords": [
+    "slot deposit dana",
+    "slot deposit dana gacor",
+    "slot dana gacor",
+    "situs slot dana",
+    "slot dana online",
+    "slot deposit dana tanpa potongan",
+    "slot dana"
+  ],
+  "repository": "https://github.com/ayodepot/deposit-dana-online",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
